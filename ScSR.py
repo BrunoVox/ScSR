@@ -7,7 +7,6 @@ from skimage.transform import resize
 import pickle
 from featuresign import fss_yang
 from scipy.signal import convolve2d
-import matplotlib.pyplot as plt
 from tqdm import tqdm
 
 def extract_lr_feat(img_lr):
