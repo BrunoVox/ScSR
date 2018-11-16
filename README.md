@@ -1,5 +1,5 @@
 # ScSR
-A Python implementation of paper "Single Image Super-Resolution via Sparse Representation" for educational purposes.
+A Python implementation of the "Single Image Super-Resolution via Sparse Representation" paper. Done for educational purposes.
 
 # Requirements
 Sklearn
