@@ -22,7 +22,7 @@ Open run.py and modify dictionary and parameter vars, if you want to.
 Execute run.py and check results in "data/results/".
 
 # Initial Results
-
+![Bicubic interpolation; Super-Resolution; Original](/demo/123.png)
 
 Some optimizations for performance and result improvement are still required, but the code runs just fine in this initial state.
 
